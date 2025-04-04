@@ -20,3 +20,5 @@ SQL Server / PostgreSQL – Database for structured data storage
 Python / Power Query – Data cleaning and transformation
 ![Screenshot 2025-04-03 220020](https://github.com/user-attachments/assets/9faeb83b-611e-4d34-bd51-747b1f8f31ac)
 ![Screenshot 2025-04-03 221746](https://github.com/user-attachments/assets/2e9a9851-da96-422f-9690-30e3e258306a)
+link :
+https://brijeshk99.github.io/Amazon_Live_Salling_DashBoard
